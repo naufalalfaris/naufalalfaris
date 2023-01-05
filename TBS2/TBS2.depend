@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1672510335 source:c:\users\naufal\onedrive\dokumen\kuliah semester 3\std\praktikum\tbs2\tbas2.cpp
+	"TBS2.h"
+
+1672510442 c:\users\naufal\onedrive\dokumen\kuliah semester 3\std\praktikum\tbs2\tbs2.h
+	<iostream>
+	<string>
+	<cstring>
+
+1672510361 source:c:\users\naufal\onedrive\dokumen\kuliah semester 3\std\praktikum\tbs2\main.cpp
+	"TBS2.h"
+
